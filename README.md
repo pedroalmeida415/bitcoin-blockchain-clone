@@ -2,7 +2,7 @@
 my completed bitcoin's blockchain clone project - fully functional and possible to interact through requests
 ============================================================
 
-Abilities and things i learned while doing this project:
+Skilss I learned/practiced while doing this project:
 
 - Deep understanding of the Javascript language, as it uses Promises, middlewares, arrow, constructor and destructuring functions; makes personalized .prototype methods and many other new features (ES6, ES7) of the JS language.
 - Experience building APIs (Using express).
